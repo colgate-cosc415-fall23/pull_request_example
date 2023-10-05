@@ -1,5 +1,7 @@
 # COSC 415: Pull request exercise
 
+This repo exists for getting (optional) practice with a pull request.
+
 ## Section A: if working from the shell
 
  1. Clone this repo to your own computer 
